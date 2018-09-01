@@ -1,0 +1,3 @@
+[submodule "Assets/Source/battle"]
+	path = Assets/Source/battle
+	url = https://github.com/CraneInForest/LockStepSimpleFramework-Shared.git
